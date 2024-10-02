@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\LoomProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{588623DC-F6D2-4C00-9311-05C1E573DF8F}|LoomProject\\LoomProject.csproj|c:\\users\\mevlut\\source\\repos\\loomproject\\loomproject\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{588623DC-F6D2-4C00-9311-05C1E573DF8F}|LoomProject\\LoomProject.csproj|solutionrelative:loomproject\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 138,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.html",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\LoomProject\\LoomProject\\Login.html",
+              "RelativeDocumentMoniker": "LoomProject\\Login.html",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\LoomProject\\LoomProject\\Login.html",
+              "RelativeToolTip": "LoomProject\\Login.html",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-02T14:19:23.855Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

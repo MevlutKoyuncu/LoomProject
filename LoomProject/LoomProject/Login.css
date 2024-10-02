@@ -1,0 +1,63 @@
+﻿body {
+    font-family: "Montserrat", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    background-image: url('photos/abstract-uv-ultraviolet-light-composition.jpg');
+}
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h1 {
+    text-align:center;
+    color:aliceblue;
+    margin:50px;
+    margin-top:-100px;
+    font-weight:900;
+    font-size:40px;
+}
+.cerceve {
+    background: transparent;
+    width: 300px;
+    border: 1px solid aliceblue;
+    border-radius: 10px;
+    padding: 7px 4px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 300px;
+    float: none;
+    height: 240px;
+    padding: 15px;
+    color: white;
+    backdrop-filter: blur(3px);
+    float:
+}
+
+.kullaniciadi {
+    width: 250px;
+    border: 2px solid #f17249;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    float: none;
+    margin: 10px;
+    padding: 15px;
+    
+}
+
+.sifre {
+    width: 250px;
+    border: 2px solid #f17249;
+    border-radius: 7px;
+    margin-left: auto;
+    margin-right: auto;
+    float: inherit;
+    display: block;
+    float: none;
+    margin: 10px;
+    padding: 15px;
+}
+
