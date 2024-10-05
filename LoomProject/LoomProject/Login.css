@@ -2,7 +2,9 @@
     font-family: "Montserrat", sans-serif;
     font-optical-sizing: auto;
     font-style: normal;
-    background-image: url('photos/abstract-uv-ultraviolet-light-composition.jpg');
+    background-image: url('photos/moon-light-shine-through-window-into-islamic-mosque-interior.jpg');
+    background-size:cover;
+    background-repeat:no-repeat;
 }
 
 
@@ -12,7 +14,7 @@
 }
 h1 {
     text-align:center;
-    color:aliceblue;
+    color:white;
     margin:50px;
     margin-top:-100px;
     font-weight:900;
@@ -33,12 +35,12 @@ h1 {
     padding: 15px;
     color: white;
     backdrop-filter: blur(3px);
-    float:
+    
 }
 
 .kullaniciadi {
     width: 250px;
-    border: 2px solid #f17249;
+    border: 2px solid aliceblue;
     border-radius: 7px;
     margin-left: auto;
     margin-right: auto;
@@ -50,7 +52,7 @@ h1 {
 
 .sifre {
     width: 250px;
-    border: 2px solid #f17249;
+    border: 2px solid aliceblue;
     border-radius: 7px;
     margin-left: auto;
     margin-right: auto;
